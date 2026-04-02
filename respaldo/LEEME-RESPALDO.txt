@@ -1,0 +1,7 @@
+=== ARCHIVOS QUE VAS A COLOCAR EN ESTA CARPETA ===
+
+1. Guia_clara_para_entender_U-LIME.pdf
+2. Respaldo_general_LIME_Company.pdf
+
+Estos nombres deben coincidir EXACTAMENTE con lo que está arriba
+(mayúsculas, guiones bajos, sin espacios).
